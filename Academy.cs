@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace adohw7
 {
-    internal class AcademyContex
+    internal class Academy
     {
     }
 }
